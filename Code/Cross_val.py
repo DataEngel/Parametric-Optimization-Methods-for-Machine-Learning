@@ -37,6 +37,8 @@ if __name__ == "__main__":
         print(test)
     # Los arreglos que aparecen contiene los indices de nuestro dataset según la partición que el realizó 
 
+    
+
 
 
 
